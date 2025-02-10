@@ -1,7 +1,7 @@
 <img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 <h1 align="center">Hi 👋, I'm Lakshan Dilupa</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilupa1999&label=Profile%20views&color=0e75b6&style=flat" alt="dilupa1999" /> </p>
 
