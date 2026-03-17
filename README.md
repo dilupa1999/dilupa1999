@@ -1,37 +1,44 @@
-<img alt="Coder GIF" height=250 width=350 src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" />
+# Hi there, I'm [Oyaage Nama]! 👋
 
-<h1 align="center">Hi 👋, I'm Lakshan Dilupa</h1>
-<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
-
-<p align="left"> <img src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="dilupa1999" /> </p>
-
-
-
-<p align="left"> <a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on (https://siliconradonnetworks.com/)
-
-- 💬 Ask me about **java react vue laravel**
-
-- 📫 How to reach me **lakshandilupa439@gmail.com**
-
-- ⚡ Fun fact **I think i am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip dilupa" target="blank"><img align="center" src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="lakshan dilupa" height="30" width="40" /></a>
-<a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip dilupa" target="blank"><img align="center" src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="lakshan dilupa" height="30" width="40" /></a>
-<a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" target="blank"><img align="center" src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="crynet" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Creative+Thinker;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="android" width="40" height="40"/> </a> <a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="angular" width="40" height="40"/> </a> <a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="arduino" width="40" height="40"/> </a> <a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="bootstrap" width="40" height="40"/> </a> <a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="css3" width="40" height="40"/> </a> <a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="figma" width="40" height="40"/> </a> <a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="firebase" width="40" height="40"/> </a> <a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="flutter" width="40" height="40"/> </a> <a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="git" width="40" height="40"/> </a> <a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="html5" width="40" height="40"/> </a> <a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="java" width="40" height="40"/> </a> <a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="javascript" width="40" height="40"/> </a> <a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="mongodb" width="40" height="40"/> </a> <a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="mysql" width="40" height="40"/> </a> <a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="php" width="40" height="40"/> </a> <a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="react" width="40" height="40"/> </a> <a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="reactnative" width="40" height="40"/> </a> <a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="spring" width="40" height="40"/> </a> <a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="tailwind" width="40" height="40"/> </a> <a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="typescript" width="40" height="40"/> </a> <a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" target="_blank" rel="noreferrer"> <img src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip"> <img align="left" src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" height="50" width="210" alt="dilupa" /></a></p><br><br>
+### 💫 About Me
+I am a passionate developer from **Sri Lanka** 🇱🇰. I love building things that live on the internet.
 
-<p><img align="left" src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="dilupa1999" /></p>
+- 🔭 I’m currently working on **[Project Name]**
+- 🌱 I’m currently learning **[New Tech Stack]**
+- ⚡ Fun fact: **I love coding with a cup of Ceylon Tea! ☕**
 
-<p>&nbsp;<img align="center" src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="dilupa1999" /></p>
+---
 
-<p><img align="center" src="https://github.com/dilupa1999/dilupa1999/raw/refs/heads/main/conditionate/dilupa_3.7.zip" alt="dilupa1999" /></p>
+### 🛠️ My Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,figma,python,mysql" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[OYAAGE_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&align=center" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=[OYAAGE_GITHUB_USERNAME]&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[OYAAGE_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/[OYAAGE_LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://fb.com/[OYAAGE_FB]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/[OYAAGE_INSTA]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
